@@ -134,7 +134,7 @@ try {
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Pretend You're Xyzzy: View Cards</title>
+<title>BTAH: View Cards</title>
 <script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
 <script type="text/javascript" src="js/jquery-migrate-1.2.1.js"></script>
 <script type="text/javascript" src="js/jquery.cookie.js"></script>
@@ -212,8 +212,7 @@ table td {
 <div style="float: left;">
   Show only cards from card sets (hold ctrl or cmd to select multiple):
   <br/>
-  <select id="cardSets" multiple="multiple" style="height: 150px; width: 450px;">
-  </select>
+  <select id="cardSets" multiple="multiple" style="height: 150px; width: 450px;">  </select>
 </div>
 <div>
   <label for="search" style="padding-left: 10px;"
@@ -249,7 +248,7 @@ table td {
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Pretend You're Xyzzy: View Cards</title>
+<title>BTAH: View Cards</title>
 </head>
 <body>
 <p>This page has been disabled as it causes excess strain on server resources.</p>
