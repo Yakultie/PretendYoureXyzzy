@@ -33,20 +33,20 @@ to, for instance, display the number of connected players.
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Pretend You're Xyzzy</title>
+<title>BTAH</title>
 <jsp:include page="analytics.jsp" />
 </head>
 <body>
 <h1>
   Pretend You're <dfn style="border-bottom: 1px dotted black"
-  title="Xyzzy is an Artificial Unintelligence bot. You'll be making more sense than him in this game.">
+  title="BT Against Humanity">
   Xyzzy</dfn>
 </h1>
-<h3>A Cards Against Humanity clone.</h3>
+<h3>A Cards Against Humanity Online Game - BT Against Humanity</h3>
 <p>
   This webapp is still in development. There will be bugs, but hopefully they won't affect gameplay
   very much. To assist with development, <strong>all traffic on this server <em>may</em> be
-  logged.</strong>
+  logged. Code is written by ajanata. </strong>
 </p>
 <p>
   The name you enter and your computer's IP address will <strong>always</strong> be logged when you
@@ -110,9 +110,7 @@ to, for instance, display the number of connected players.
   fix this, but I haven't had time to do so.</li>
   <li>This game was extensively tested in <a href="http://google.com/chrome">Google Chrome</a>.
   It should work in all recent versions of major browsers, but it may not look 100% as intended. If
-  you find a major issue, please
-  <a href="mailto:ajanata@socialgamer.net?subject=PYX%20bug">email me</a> with a screenshot and the
-  name and version of the browser you are using, and I'll try to fix it.
+  you find a major issue, please Whatsapp BT at +852 6683 2261.
   </li>
   <li>You may not always see your card in the top area after you play it, but it has been played.
   Also, sometimes the card will display in the top area but be small. I have no idea why either of
@@ -156,25 +154,8 @@ to, for instance, display the number of connected players.
   use them or just the stock cards.</li>
 </ul>
 <p>
-  If the game seems to be in a weird state, refresh the page and it should take you back to where
-  you were. It would be helpful to take a screenshot and
-  <a href="mailto:ajanata@socialgamer.net?subject=PYX%20bug">email it to me</a> along with a general
-  description of the problem and the time that it happened (include a time zone please!).
-</p>
-<p>
-  <input type="button" value="I have read the above; Take me to the game!"
+  <input type="button" value="Let's start alrady!"
     onclick="window.location='game.jsp';" />
-</p>
-<p>
-  Pretend You're Xyzzy is a Cards Against Humanity clone, which is available at
-  <a href="http://www.cardsagainsthumanity.com/">cardsagainsthumanity.com</a>, where you can buy it
-  or download and print it out yourself. It is distributed under a
-  <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons - Attribution -
-  Noncommercial - Share Alike license</a>. This web version is in no way endorsed or sponsored by
-  cardsagainsthumanity.com. You may download the source code to this version from
-  <a href="https://github.com/ajanata/PretendYoureXyzzy">GitHub</a>. For full license
-  information, including information about included libraries, see the
-  <a href="license.html">full license information</a>.
 </p>
 </body>
 </html>
